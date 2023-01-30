@@ -12,4 +12,5 @@ Ethernet：i226-V(VT-D-True Add SSDT-DMAR to EFI)
 
 WiFi:BCM94360CD
 
-![13900K+6950XT完美](https://user-images.githubusercontent.com/120925561/215386872-fe82848b-cbca-482b-a6a8-3a24f96c9667.png)
+![13900K+6950XT完美](https://user-images.githubusercontent.com/120925561/215387253-c127b24d-d456-4876-87a1-f95d0bcd6c63.png)
+
